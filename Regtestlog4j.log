@@ -1,0 +1,4 @@
+2016-09-23 12:59:43,788 main TRACE regtest.Register1 - Initializing Program.
+2016-09-23 12:59:43,789 main DEBUG regtest.Register1 - Debug message.
+2016-09-23 12:59:57,039 main INFO  regtest.Register1 - Info message.
+2016-09-23 12:59:57,039 main ERROR regtest.Register1 - Error message
