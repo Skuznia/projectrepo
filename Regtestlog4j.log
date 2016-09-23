@@ -1,4 +1,13 @@
-2016-09-23 12:59:43,788 main TRACE regtest.Register1 - Initializing Program.
-2016-09-23 12:59:43,789 main DEBUG regtest.Register1 - Debug message.
-2016-09-23 12:59:57,039 main INFO  regtest.Register1 - Info message.
-2016-09-23 12:59:57,039 main ERROR regtest.Register1 - Error message
+2016-09-23 16:17:14,144 main TRACE regtest.Register1 - Initializing Program.
+2016-09-23 16:17:15,766 main TRACE regtest.Register1 - Running regSurfing.
+2016-09-23 16:17:15,766 main TRACE regtest.Register1 - Directing to qa5.caringbridge.org
+2016-09-23 16:17:18,192 main TRACE regtest.Register1 - Directing to signin/register page.
+2016-09-23 16:17:19,281 main TRACE regtest.Register1 - Directing to register page.
+2016-09-23 16:17:20,398 main TRACE regtest.Register1 - Running inputInfo.
+2016-09-23 16:17:20,398 main TRACE regtest.Register1 - Initializing Emailgeneratorv2 class.
+2016-09-23 16:17:20,399 main TRACE regtest.Register1 - Calling emailgen() from Emailgeneratorv2 object.
+2016-09-23 16:17:20,399 main TRACE regtest.Register1 - Inputting info.
+2016-09-23 16:17:27,753 main TRACE regtest.Register1 - Submitting account registration.
+2016-09-23 16:17:27,753 main TRACE regtest.Register1 - Verifying Login Successful, initializing verifyLogin().
+2016-09-23 16:17:29,348 main TRACE regtest.Register1 - Directing to qa5.caringbridge.org/settings
+2016-09-23 16:17:30,611 main TRACE regtest.Register1 - Verifying all the expected information matches the real information.
